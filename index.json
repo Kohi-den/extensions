@@ -3658,6 +3658,26 @@
       }
     ]
   },
+  { 
+  "name": "Aniyomi: AnimeHouse",
+  "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeshouse",
+  "apk": "aniyomi-pt.animeshouse-v14.2.apk",
+  "lang": "pt-BR",
+  "code": 2,
+  "version": "14.2",
+  "nsfw": 0,
+  "hasReadme": 0,
+  "hasChangelog": 0,
+  "sources": [
+    {
+      "name": "AnimeHouse",
+      "lang": "pt-BR",
+      "id": "1368341751545033007",
+      "baseUrl": "https://animehouse.org",
+      "versionId": 1
+    }
+  ]
+  },
   {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
