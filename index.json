@@ -3221,10 +3221,10 @@
   {
     "name": "Aniyomi: AnimeIndo",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.animeindo",
-    "apk": "aniyomi-id.animeindo-v14.12.apk",
+    "apk": "aniyomi-id.animeindo-v14.13.apk",
     "lang": "id",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3241,10 +3241,10 @@
   {
     "name": "Aniyomi: Kuramanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
-    "apk": "aniyomi-id.kuramanime-v14.12.apk",
+    "apk": "aniyomi-id.kuramanime-v14.13.apk",
     "lang": "id",
-    "code": 12,
-    "version": "14.12",
+    "code": 13,
+    "version": "14.13",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3253,7 +3253,7 @@
         "name": "Kuramanime",
         "lang": "id",
         "id": "4677878836897500878",
-        "baseUrl": "https://kuramanime.pro",
+        "baseUrl": "https://kuramanime.boo",
         "versionId": 1
       }
     ]
@@ -3801,10 +3801,10 @@
   {
     "name": "Aniyomi: Bakashi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-    "apk": "aniyomi-pt.animesgratis-v14.11.apk",
+    "apk": "aniyomi-pt.animesgratis-v14.12.apk",
     "lang": "pt-BR",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
