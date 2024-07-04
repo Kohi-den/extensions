@@ -1,6 +1,7 @@
 ## Support Server
 
 [Discord](https://discord.gg/vut4mmXQzU)
+and please check the discord BEFORE making an issue
 
 ## Guide
 
