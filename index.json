@@ -3081,10 +3081,10 @@
   {
     "name": "Aniyomi: NekoSama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.nekosama",
-    "apk": "aniyomi-fr.nekosama-v14.10.apk",
+    "apk": "aniyomi-fr.nekosama-v14.11.apk",
     "lang": "fr",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3341,10 +3341,10 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v14.25.apk",
+    "apk": "aniyomi-id.oploverz-v14.26.apk",
     "lang": "id",
-    "code": 25,
-    "version": "14.25",
+    "code": 26,
+    "version": "14.26",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3353,7 +3353,7 @@
         "name": "Oploverz",
         "lang": "id",
         "id": "2573103800968432770",
-        "baseUrl": "https://oploverz.plus",
+        "baseUrl": "https://oploverz.media",
         "versionId": 1
       }
     ]
@@ -3381,10 +3381,10 @@
   {
     "name": "Aniyomi: Samehadaku",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.samehadaku",
-    "apk": "aniyomi-id.samehadaku-v14.6.apk",
+    "apk": "aniyomi-id.samehadaku-v14.7.apk",
     "lang": "id",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3393,7 +3393,7 @@
         "name": "Samehadaku",
         "lang": "id",
         "id": "7446063017613536202",
-        "baseUrl": "https://samehadaku.show",
+        "baseUrl": "https://samehadaku.email",
         "versionId": 1
       }
     ]
@@ -4400,7 +4400,7 @@
         "name": "HentaiZM",
         "lang": "tr",
         "id": "9058842310298227429",
-        "baseUrl": "https://www.hentaizm.fun",
+        "baseUrl": "https://www.hentaizm.life",
         "versionId": 1
       }
     ]
