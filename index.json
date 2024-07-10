@@ -406,10 +406,10 @@
   {
     "name": "Aniyomi: Anime4up",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.anime4up",
-    "apk": "aniyomi-ar.anime4up-v14.56.apk",
+    "apk": "aniyomi-ar.anime4up-v14.57.apk",
     "lang": "ar",
-    "code": 56,
-    "version": "14.56",
+    "code": 57,
+    "version": "14.57",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2513,10 +2513,10 @@
   {
     "name": "Aniyomi: Hackstore",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hackstore",
-    "apk": "aniyomi-es.hackstore-v14.9.apk",
+    "apk": "aniyomi-es.hackstore-v14.10.apk",
     "lang": "es",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2525,7 +2525,7 @@
         "name": "Hackstore",
         "lang": "es",
         "id": "1202443264869837465",
-        "baseUrl": "https://hackstore.to",
+        "baseUrl": "https://hackstore.fo",
         "versionId": 1
       }
     ]
@@ -3441,10 +3441,10 @@
   {
     "name": "Aniyomi: ANIMEWORLD.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeworld",
-    "apk": "aniyomi-it.animeworld-v14.38.apk",
+    "apk": "aniyomi-it.animeworld-v14.39.apk",
     "lang": "it",
-    "code": 38,
-    "version": "14.38",
+    "code": 39,
+    "version": "14.39",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
