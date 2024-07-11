@@ -290,6 +290,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Subsplease",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.subsplease",
+    "apk": "aniyomi-all.subsplease-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Subsplease",
+        "lang": "all",
+        "id": "8766955949256845198",
+        "baseUrl": "https://subsplease.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Sudatchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
     "apk": "aniyomi-all.sudatchi-v14.3.apk",
