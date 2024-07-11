@@ -1,7 +1,7 @@
 {
     "meta": {
-      "name": "Hak's aniyomi extensions",
-      "shortName": "Hak's repo",
+      "name": "Hak's anime extensions",
+      "shortName": "Anime repo",
       "website": "https://github.com/almightyhak/aniyomi-extensions",
       "signingKeyFingerprint": "87a5acfef85e9d6cc788f05632e7311dd03c2eff0b830783de768559ea16E090"
     }
