@@ -4105,6 +4105,26 @@
     ]
   },
   {
+    "name": "Aniyomi: OtakuAnimes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.otakuanimes",
+    "apk": "aniyomi-pt.otakuanimes-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Otaku Animes",
+        "lang": "pt-BR",
+        "id": "326136178003164263",
+        "baseUrl": "https://otakuanimesscc.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Pi Fansubs",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.pifansubs",
     "apk": "aniyomi-pt.pifansubs-v14.20.apk",
