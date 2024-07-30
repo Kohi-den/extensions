@@ -1050,46 +1050,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeFlix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeflix",
-    "apk": "aniyomi-en.animeflix-v14.7.apk",
-    "lang": "en",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimeFlix",
-        "lang": "en",
-        "id": "7035893907447463920",
-        "baseUrl": "https://animeflix.mobi",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Animeflix.live",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animeflixlive",
-    "apk": "aniyomi-en.animeflixlive-v14.4.apk",
-    "lang": "en",
-    "code": 4,
-    "version": "14.4",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animeflix.live",
-        "lang": "en",
-        "id": "8093880877491355644",
-        "baseUrl": "https://animeflix.live",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeKhor",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animekhor",
     "apk": "aniyomi-en.animekhor-v14.5.apk",
