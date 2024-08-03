@@ -2399,10 +2399,10 @@
   {
     "name": "Aniyomi: Hackstore",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hackstore",
-    "apk": "aniyomi-es.hackstore-v14.10.apk",
+    "apk": "aniyomi-es.hackstore-v14.11.apk",
     "lang": "es",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2706,10 +2706,10 @@
   {
     "name": "Aniyomi: Pelisplushd",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
-    "apk": "aniyomi-es.pelisplushd-v14.53.apk",
+    "apk": "aniyomi-es.pelisplushd-v14.54.apk",
     "lang": "es",
-    "code": 53,
-    "version": "14.53",
+    "code": 54,
+    "version": "14.54",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2718,7 +2718,7 @@
         "name": "PelisPlusHD",
         "lang": "es",
         "id": "1400819034564144238",
-        "baseUrl": "https://ww1.pelisplushd.nu",
+        "baseUrl": "https://pelisplushd.bz",
         "versionId": 1
       },
       {
