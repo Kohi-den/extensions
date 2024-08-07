@@ -1210,6 +1210,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AniPlay",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.aniplay",
+    "apk": "aniyomi-en.aniplay-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniPlay",
+        "lang": "en",
+        "id": "7191632168234158173",
+        "baseUrl": "https://aniplaynow.live",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AsiaFlix",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.asiaflix",
     "apk": "aniyomi-en.asiaflix-v14.10.apk",
