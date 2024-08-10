@@ -216,6 +216,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Subsplease",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.subsplease",
+    "apk": "aniyomi-all.subsplease-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Subsplease",
+        "lang": "all",
+        "id": "8766955949256845198",
+        "baseUrl": "https://subsplease.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Sudatchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
     "apk": "aniyomi-all.sudatchi-v14.3.apk",
@@ -2285,6 +2305,26 @@
         "lang": "es",
         "id": "27781270364033644",
         "baseUrl": "https://www.beatz-anime.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: CineCalidad",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.cinecalidad",
+    "apk": "aniyomi-es.cinecalidad-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "CineCalidad",
+        "lang": "es",
+        "id": "661928073480792687",
+        "baseUrl": "https://www.cinecalidad.ec",
         "versionId": 1
       }
     ]
