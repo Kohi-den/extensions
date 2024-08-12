@@ -3307,10 +3307,10 @@
   {
     "name": "Aniyomi: Oploverz",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.oploverz",
-    "apk": "aniyomi-id.oploverz-v14.26.apk",
+    "apk": "aniyomi-id.oploverz-v14.27.apk",
     "lang": "id",
-    "code": 26,
-    "version": "14.26",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
