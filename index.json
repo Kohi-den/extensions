@@ -2557,6 +2557,26 @@
     ]
   },
   {
+    "name": "Aniyomi: HomeCine",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.homecine",
+    "apk": "aniyomi-es.homecine-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HomeCine",
+        "lang": "es",
+        "id": "4683784015054845419",
+        "baseUrl": "https://www3.homecine.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Jkanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.jkanime",
     "apk": "aniyomi-es.jkanime-v14.23.apk",
@@ -2786,10 +2806,10 @@
   {
     "name": "Aniyomi: Pelisplushd",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
-    "apk": "aniyomi-es.pelisplushd-v14.54.apk",
+    "apk": "aniyomi-es.pelisplushd-v14.55.apk",
     "lang": "es",
-    "code": 54,
-    "version": "14.54",
+    "code": 55,
+    "version": "14.55",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2860,6 +2880,26 @@
         "lang": "es",
         "id": "6830054141432094072",
         "baseUrl": "https://anime.tiodonghua.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: VerAnimes",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.veranimes",
+    "apk": "aniyomi-es.veranimes-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "VerAnimes",
+        "lang": "es",
+        "id": "6262145028910416459",
+        "baseUrl": "https://wwv.veranimes.net",
         "versionId": 1
       }
     ]
