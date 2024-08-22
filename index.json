@@ -138,10 +138,10 @@
   {
     "name": "Aniyomi: Hikari",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.hikari",
-    "apk": "aniyomi-all.hikari-v14.6.apk",
+    "apk": "aniyomi-all.hikari-v14.7.apk",
     "lang": "all",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2925,6 +2925,26 @@
     ]
   },
   {
+    "name": "Aniyomi: VeoHentai",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.veohentai",
+    "apk": "aniyomi-es.veohentai-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "VeoHentai",
+        "lang": "es",
+        "id": "1192827176989085393",
+        "baseUrl": "https://veohentai.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: VerAnimes",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.veranimes",
     "apk": "aniyomi-es.veranimes-v14.2.apk",
@@ -3987,10 +4007,10 @@
   {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
-    "apk": "aniyomi-pt.anitube-v14.15.apk",
+    "apk": "aniyomi-pt.anitube-v14.16.apk",
     "lang": "pt-BR",
-    "code": 15,
-    "version": "14.15",
+    "code": 16,
+    "version": "14.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4147,10 +4167,10 @@
   {
     "name": "Aniyomi: Hinata Soul",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.hinatasoul",
-    "apk": "aniyomi-pt.hinatasoul-v14.5.apk",
+    "apk": "aniyomi-pt.hinatasoul-v14.6.apk",
     "lang": "pt-BR",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
