@@ -238,10 +238,10 @@
   {
     "name": "Aniyomi: Sudatchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
-    "apk": "aniyomi-all.sudatchi-v14.3.apk",
+    "apk": "aniyomi-all.sudatchi-v14.4.apk",
     "lang": "all",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3847,10 +3847,10 @@
   {
     "name": "Aniyomi: Animes Games",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgames",
-    "apk": "aniyomi-pt.animesgames-v14.3.apk",
+    "apk": "aniyomi-pt.animesgames-v14.4.apk",
     "lang": "pt-BR",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3960,26 +3960,6 @@
         "lang": "pt-BR",
         "id": "1328689310980517070",
         "baseUrl": "https://www.anroll.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimesTC",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animestc",
-    "apk": "aniyomi-pt.animestc-v14.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimesTC",
-        "lang": "pt-BR",
-        "id": "3010449287201563287",
-        "baseUrl": "https://api2.animestc.com",
         "versionId": 1
       }
     ]
@@ -4105,26 +4085,6 @@
     ]
   },
   {
-    "name": "Aniyomi: GoAnimes",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.goanimes",
-    "apk": "aniyomi-pt.goanimes-v14.14.apk",
-    "lang": "pt-BR",
-    "code": 14,
-    "version": "14.14",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GoAnimes",
-        "lang": "pt-BR",
-        "id": "6911038002626470519",
-        "baseUrl": "https://goanimes.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
     "apk": "aniyomi-pt.goyabu-v14.1.apk",
@@ -4180,26 +4140,6 @@
         "lang": "pt-BR",
         "id": "3650793989950779171",
         "baseUrl": "https://www.hinatasoul.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Lista de Animes",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.listadeanimes",
-    "apk": "aniyomi-pt.listadeanimes-v14.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lista de Animes",
-        "lang": "pt-BR",
-        "id": "4848980350254771341",
-        "baseUrl": "https://www.listadeanimes.com",
         "versionId": 1
       }
     ]
@@ -4514,10 +4454,10 @@
   {
     "name": "Aniyomi: HentaiZM",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
-    "apk": "aniyomi-tr.hentaizm-v14.4.apk",
+    "apk": "aniyomi-tr.hentaizm-v14.5.apk",
     "lang": "tr",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4526,7 +4466,7 @@
         "name": "HentaiZM",
         "lang": "tr",
         "id": "9058842310298227429",
-        "baseUrl": "https://www.hentaizm.pro",
+        "baseUrl": "https://www.hentaizm.cam",
         "versionId": 1
       }
     ]
