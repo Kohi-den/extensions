@@ -1252,10 +1252,10 @@
   {
     "name": "Aniyomi: AniPlay",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniplay",
-    "apk": "aniyomi-en.aniplay-v14.3.apk",
+    "apk": "aniyomi-en.aniplay-v14.5.apk",
     "lang": "en",
-    "code": 3,
-    "version": "14.3",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
