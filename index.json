@@ -2419,10 +2419,10 @@
   {
     "name": "Aniyomi: Doramasyt",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.doramasyt",
-    "apk": "aniyomi-es.doramasyt-v14.13.apk",
+    "apk": "aniyomi-es.doramasyt-v14.14.apk",
     "lang": "es",
-    "code": 13,
-    "version": "14.13",
+    "code": 14,
+    "version": "14.14",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2431,7 +2431,7 @@
         "name": "Doramasyt",
         "lang": "es",
         "id": "885919523581666049",
-        "baseUrl": "https://doramasyt.com",
+        "baseUrl": "https://www.doramasyt.com",
         "versionId": 1
       }
     ]
@@ -2739,10 +2739,10 @@
   {
     "name": "Aniyomi: MonosChinos",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.monoschinos",
-    "apk": "aniyomi-es.monoschinos-v14.27.apk",
+    "apk": "aniyomi-es.monoschinos-v14.28.apk",
     "lang": "es",
-    "code": 27,
-    "version": "14.27",
+    "code": 28,
+    "version": "14.28",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
