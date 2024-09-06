@@ -1012,10 +1012,10 @@
   {
     "name": "Aniyomi: AllAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.allanime",
-    "apk": "aniyomi-en.allanime-v14.31.apk",
+    "apk": "aniyomi-en.allanime-v14.32.apk",
     "lang": "en",
-    "code": 31,
-    "version": "14.31",
+    "code": 32,
+    "version": "14.32",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
