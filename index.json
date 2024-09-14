@@ -3125,26 +3125,6 @@
     ]
   },
   {
-    "name": "Aniyomi: NekoSama",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.nekosama",
-    "apk": "aniyomi-fr.nekosama-v14.12.apk",
-    "lang": "fr",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Neko-Sama",
-        "lang": "fr",
-        "id": "5658174401067457058",
-        "baseUrl": "https://animecat.net/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: OtakuFR",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.otakufr",
     "apk": "aniyomi-fr.otakufr-v14.13.apk",
