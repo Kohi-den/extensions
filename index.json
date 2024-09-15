@@ -1152,10 +1152,10 @@
   {
     "name": "Aniyomi: AnimeOwl",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animeowl",
-    "apk": "aniyomi-en.animeowl-v14.18.apk",
+    "apk": "aniyomi-en.animeowl-v14.19.apk",
     "lang": "en",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1164,7 +1164,7 @@
         "name": "AnimeOwl",
         "lang": "en",
         "id": "6489797158672074908",
-        "baseUrl": "https://animeowl.us",
+        "baseUrl": "https://animeowl.live",
         "versionId": 1
       }
     ]
