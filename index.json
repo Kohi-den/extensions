@@ -4107,10 +4107,10 @@
   {
     "name": "Aniyomi: Megaflix",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.megaflix",
-    "apk": "aniyomi-pt.megaflix-v14.17.apk",
+    "apk": "aniyomi-pt.megaflix-v14.18.apk",
     "lang": "pt-BR",
-    "code": 17,
-    "version": "14.17",
+    "code": 18,
+    "version": "14.18",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
