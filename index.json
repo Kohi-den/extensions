@@ -2965,26 +2965,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeVostFr",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.animevostfr",
-    "apk": "aniyomi-fr.animevostfr-v14.2.apk",
-    "lang": "fr",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimeVostFr",
-        "lang": "fr",
-        "id": "5563793683192822639",
-        "baseUrl": "https://animevostfr.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AniSama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.anisama",
     "apk": "aniyomi-fr.anisama-v14.7.apk",
