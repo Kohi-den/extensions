@@ -1392,10 +1392,10 @@
   {
     "name": "Aniyomi: DramaCool",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
-    "apk": "aniyomi-en.dramacool-v14.49.apk",
+    "apk": "aniyomi-en.dramacool-v14.50.apk",
     "lang": "en",
-    "code": 49,
-    "version": "14.49",
+    "code": 50,
+    "version": "14.50",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1404,7 +1404,7 @@
         "name": "DramaCool",
         "lang": "en",
         "id": "76017545488916387",
-        "baseUrl": "https://dramacool.com.pa",
+        "baseUrl": "https://asianc.sh/",
         "versionId": 1
       }
     ]
@@ -2987,10 +2987,10 @@
   {
     "name": "Aniyomi: AniSama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.anisama",
-    "apk": "aniyomi-fr.anisama-v14.7.apk",
+    "apk": "aniyomi-fr.anisama-v14.8.apk",
     "lang": "fr",
-    "code": 7,
-    "version": "14.7",
+    "code": 8,
+    "version": "14.8",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2999,7 +2999,7 @@
         "name": "AniSama",
         "lang": "fr",
         "id": "1898818943039425198",
-        "baseUrl": "https://animesz.xyz",
+        "baseUrl": "https://v1.animesz.xyz",
         "versionId": 1
       }
     ]
