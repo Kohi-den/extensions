@@ -1850,6 +1850,26 @@
     ]
   },
   {
+    "name": "Aniyomi: PinoyMoviePedia",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.pinoymoviepedia",
+    "apk": "aniyomi-en.pinoymoviepedia-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "PinoyMoviePedia",
+        "lang": "en",
+        "id": "8569022244537791293",
+        "baseUrl": "https://pinoymoviepedia.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: PutLocker",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.putlocker",
     "apk": "aniyomi-en.putlocker-v14.8.apk",
