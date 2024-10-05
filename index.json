@@ -3467,10 +3467,10 @@
   {
     "name": "Aniyomi: ANIMEWORLD.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeworld",
-    "apk": "aniyomi-it.animeworld-v14.39.apk",
+    "apk": "aniyomi-it.animeworld-v14.40.apk",
     "lang": "it",
-    "code": 39,
-    "version": "14.39",
+    "code": 40,
+    "version": "14.40",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
