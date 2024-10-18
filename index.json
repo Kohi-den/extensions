@@ -4530,5 +4530,25 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Aniyomi: Xfani",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
+    "apk": "aniyomi-zh.xfani-v14.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "稀饭动漫",
+        "lang": "zh",
+        "id": "8868273686324481907",
+        "baseUrl": "https://dick.xfani.com",
+        "versionId": 1
+      }
+    ]
   }
 ]
