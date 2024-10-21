@@ -4534,10 +4534,10 @@
   {
     "name": "Aniyomi: Xfani",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
-    "apk": "aniyomi-zh.xfani-v14.1.apk",
+    "apk": "aniyomi-zh.xfani-v14.2.apk",
     "lang": "zh",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
