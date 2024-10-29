@@ -2797,6 +2797,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Pandrama",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.pandrama",
+    "apk": "aniyomi-es.pandrama-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Pandrama",
+        "lang": "es",
+        "id": "8290662435507939982",
+        "baseUrl": "https://pandra.ma",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Pelisflix",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisflix",
     "apk": "aniyomi-es.pelisflix-v14.14.apk",
