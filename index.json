@@ -4532,6 +4532,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Hanime1",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
+    "apk": "aniyomi-zh.hanime1-v14.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Hanime1.me",
+        "lang": "zh",
+        "id": "2853734405579058222",
+        "baseUrl": "https://hanime1.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Xfani",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
     "apk": "aniyomi-zh.xfani-v14.2.apk",
