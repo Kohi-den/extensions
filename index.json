@@ -4552,6 +4552,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Anime1.me",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
+    "apk": "aniyomi-zh.anime1-v14.1.apk",
+    "lang": "zh-hant",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Anime1.me",
+        "lang": "zh-hant",
+        "id": "8121834351495460193",
+        "baseUrl": "https://anime1.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Hanime1",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
     "apk": "aniyomi-zh.hanime1-v14.2.apk",
