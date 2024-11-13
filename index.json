@@ -4574,10 +4574,10 @@
   {
     "name": "Aniyomi: Anime1.me",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.anime1",
-    "apk": "aniyomi-zh.anime1-v14.1.apk",
+    "apk": "aniyomi-zh.anime1-v14.3.apk",
     "lang": "zh-hant",
-    "code": 1,
-    "version": "14.1",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
