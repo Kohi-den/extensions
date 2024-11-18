@@ -2579,10 +2579,10 @@
   {
     "name": "Aniyomi: HentaiLA",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaila",
-    "apk": "aniyomi-es.hentaila-v14.25.apk",
+    "apk": "aniyomi-es.hentaila-v14.26.apk",
     "lang": "es",
     "code": 25,
-    "version": "14.25",
+    "version": "14.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2591,7 +2591,7 @@
         "name": "Hentaila",
         "lang": "es",
         "id": "6447194598203666818",
-        "baseUrl": "https://www4.hentaila.com",
+        "baseUrl": "https://www5.hentaila.com",
         "versionId": 1
       }
     ]
