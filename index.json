@@ -156,6 +156,40 @@
     ]
   },
   {
+    "name": "Aniyomi: Jable",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.jable",
+    "apk": "aniyomi-all.jable-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Jable",
+        "lang": "zh",
+        "id": "4927468808524123411",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      },
+      {
+        "name": "Jable",
+        "lang": "en",
+        "id": "889668913079212135",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      },
+      {
+        "name": "Jable",
+        "lang": "jp",
+        "id": "6757679722179057162",
+        "baseUrl": "https://jable.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: JavGG",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.javgg",
     "apk": "aniyomi-all.javgg-v14.1.apk",
