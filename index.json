@@ -1446,10 +1446,10 @@
   {
     "name": "Aniyomi: DramaCool",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
-    "apk": "aniyomi-en.dramacool-v14.50.apk",
+    "apk": "aniyomi-en.dramacool-v14.51.apk",
     "lang": "en",
-    "code": 50,
-    "version": "14.50",
+    "code": 51,
+    "version": "14.51",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1458,7 +1458,7 @@
         "name": "DramaCool",
         "lang": "en",
         "id": "76017545488916387",
-        "baseUrl": "https://asianc.sh/",
+        "baseUrl": "https://asianc.co/",
         "versionId": 1
       }
     ]
@@ -2613,10 +2613,10 @@
   {
     "name": "Aniyomi: HentaiLA",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaila",
-    "apk": "aniyomi-es.hentaila-v14.25.apk",
+    "apk": "aniyomi-es.hentaila-v14.26.apk",
     "lang": "es",
-    "code": 25,
-    "version": "14.25",
+    "code": 26,
+    "version": "14.26",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2625,7 +2625,7 @@
         "name": "Hentaila",
         "lang": "es",
         "id": "6447194598203666818",
-        "baseUrl": "https://www4.hentaila.com",
+        "baseUrl": "https://www5.hentaila.com",
         "versionId": 1
       }
     ]
