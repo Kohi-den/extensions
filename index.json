@@ -4301,10 +4301,10 @@
   {
     "name": "Aniyomi: Vizer.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.vizer",
-    "apk": "aniyomi-pt.vizer-v14.20.apk",
+    "apk": "aniyomi-pt.vizer-v14.21.apk",
     "lang": "pt-BR",
-    "code": 20,
-    "version": "14.20",
+    "code": 21,
+    "version": "14.21",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
