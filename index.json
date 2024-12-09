@@ -2653,10 +2653,10 @@
   {
     "name": "Aniyomi: HomeCine",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.homecine",
-    "apk": "aniyomi-es.homecine-v14.1.apk",
+    "apk": "aniyomi-es.homecine-v14.2.apk",
     "lang": "es",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2665,7 +2665,7 @@
         "name": "HomeCine",
         "lang": "es",
         "id": "4683784015054845419",
-        "baseUrl": "https://www3.homecine.tv",
+        "baseUrl": "https://homecine.cc",
         "versionId": 1
       }
     ]
@@ -2793,10 +2793,10 @@
   {
     "name": "Aniyomi: MetroSeries",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.metroseries",
-    "apk": "aniyomi-es.metroseries-v14.11.apk",
+    "apk": "aniyomi-es.metroseries-v14.12.apk",
     "lang": "es",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2805,7 +2805,7 @@
         "name": "MetroSeries",
         "lang": "es",
         "id": "302544302370133084",
-        "baseUrl": "https://metroseries.net",
+        "baseUrl": "https://www3.seriesmetro.net",
         "versionId": 1
       }
     ]
@@ -2900,10 +2900,10 @@
   {
     "name": "Aniyomi: PelisForte",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
-    "apk": "aniyomi-es.pelisforte-v14.16.apk",
+    "apk": "aniyomi-es.pelisforte-v14.17.apk",
     "lang": "es",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
