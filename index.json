@@ -3901,10 +3901,10 @@
   {
     "name": "Aniyomi: Bakashi",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-    "apk": "aniyomi-pt.animesgratis-v14.14.apk",
+    "apk": "aniyomi-pt.animesgratis-v14.15.apk",
     "lang": "pt-BR",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3913,7 +3913,7 @@
         "name": "Bakashi",
         "lang": "pt-BR",
         "id": "2969482460524685571",
-        "baseUrl": "https://bakashi.tv",
+        "baseUrl": "https://bakashi.net",
         "versionId": 1
       }
     ]
