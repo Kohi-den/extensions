@@ -1406,10 +1406,10 @@
   {
     "name": "Aniyomi: DonghuaStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
-    "apk": "aniyomi-en.donghuastream-v14.8.apk",
+    "apk": "aniyomi-en.donghuastream-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1418,7 +1418,7 @@
         "name": "DonghuaStream",
         "lang": "en",
         "id": "5750955808412743706",
-        "baseUrl": "https://donghuastream.co.in",
+        "baseUrl": "https://donghuastream.org",
         "versionId": 1
       }
     ]
