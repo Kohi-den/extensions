@@ -292,10 +292,10 @@
   {
     "name": "Aniyomi: Sudatchi",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.sudatchi",
-    "apk": "aniyomi-all.sudatchi-v14.4.apk",
+    "apk": "aniyomi-all.sudatchi-v14.5.apk",
     "lang": "all",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3899,21 +3899,21 @@
     ]
   },
   {
-    "name": "Aniyomi: Bakashi",
+    "name": "Aniyomi: Q1N",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgratis",
-    "apk": "aniyomi-pt.animesgratis-v14.15.apk",
+    "apk": "aniyomi-pt.animesgratis-v14.16.apk",
     "lang": "pt-BR",
-    "code": 15,
-    "version": "14.15",
+    "code": 16,
+    "version": "14.16",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Bakashi",
+        "name": "Q1N",
         "lang": "pt-BR",
         "id": "2969482460524685571",
-        "baseUrl": "https://bakashi.net",
+        "baseUrl": "https://q1n.net",
         "versionId": 1
       }
     ]
@@ -3974,6 +3974,26 @@
         "lang": "pt-BR",
         "id": "6962698096138673113",
         "baseUrl": "https://animesonline.cloud/",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: AnimesOnlineVip",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
+    "apk": "aniyomi-pt.animesonlinevip-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes Online Vip",
+        "lang": "pt-BR",
+        "id": "533096643049014020",
+        "baseUrl": "https://animesonlinehd.vip",
         "versionId": 1
       }
     ]
