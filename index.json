@@ -3999,6 +3999,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesOtaku",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesotaku",
+    "apk": "aniyomi-pt.animesotaku-v14.1.apk",
+    "lang": "pt",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes Otaku",
+        "lang": "pt",
+        "id": "2253195326789404540",
+        "baseUrl": "https://www.animesotaku.cc",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AnimesROLL",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesroll",
     "apk": "aniyomi-pt.animesroll-v14.5.apk",
