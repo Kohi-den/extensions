@@ -4099,6 +4099,26 @@
     ]
   },
   {
+    "name": "Aniyomi: DarkMahou",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.darkmahou",
+    "apk": "aniyomi-pt.darkmahou-v14.3.apk",
+    "lang": "pt-BR",
+    "code": 3,
+    "version": "14.3",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "DarkMahou (Torrent)",
+        "lang": "pt-BR",
+        "id": "59748104323952005",
+        "baseUrl": "https://darkmahou.org",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Donghua no Sekai",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.donghuanosekai",
     "apk": "aniyomi-pt.donghuanosekai-v14.3.apk",
