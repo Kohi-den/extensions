@@ -158,10 +158,10 @@
   {
     "name": "Aniyomi: Jable",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.jable",
-    "apk": "aniyomi-all.jable-v14.1.apk",
+    "apk": "aniyomi-all.jable-v14.2.apk",
     "lang": "all",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -182,8 +182,8 @@
       },
       {
         "name": "Jable",
-        "lang": "jp",
-        "id": "6757679722179057162",
+        "lang": "ja",
+        "id": "7335707215680841826",
         "baseUrl": "https://jable.tv",
         "versionId": 1
       }
@@ -1626,10 +1626,10 @@
   {
     "name": "Aniyomi: Kaido",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kaido",
-    "apk": "aniyomi-en.kaido-v14.10.apk",
+    "apk": "aniyomi-en.kaido-v14.11.apk",
     "lang": "en",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1966,10 +1966,10 @@
   {
     "name": "Aniyomi: Rule34Video",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34video",
-    "apk": "aniyomi-en.rule34video-v14.8.apk",
+    "apk": "aniyomi-en.rule34video-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2166,10 +2166,10 @@
   {
     "name": "Aniyomi: HiAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
-    "apk": "aniyomi-en.zoro-v14.47.apk",
+    "apk": "aniyomi-en.zoro-v14.48.apk",
     "lang": "en",
-    "code": 47,
-    "version": "14.47",
+    "code": 48,
+    "version": "14.48",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4299,6 +4299,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Tomato",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
+    "apk": "aniyomi-pt.tomato-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Tomato",
+        "lang": "pt-BR",
+        "id": "3298973071492789784",
+        "baseUrl": "https://beta-api.tomatoanimes.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Vizer.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.vizer",
     "apk": "aniyomi-pt.vizer-v14.21.apk",
@@ -4488,10 +4508,10 @@
   {
     "name": "Aniyomi: HentaiZM",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.hentaizm",
-    "apk": "aniyomi-tr.hentaizm-v14.6.apk",
+    "apk": "aniyomi-tr.hentaizm-v14.7.apk",
     "lang": "tr",
-    "code": 6,
-    "version": "14.6",
+    "code": 7,
+    "version": "14.7",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4500,7 +4520,7 @@
         "name": "HentaiZM",
         "lang": "tr",
         "id": "9058842310298227429",
-        "baseUrl": "https://www.hentaizm1.online/",
+        "baseUrl": "https://www.hentaizm3.online/",
         "versionId": 1
       }
     ]
@@ -4648,10 +4668,10 @@
   {
     "name": "Aniyomi: Xfani",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.xfani",
-    "apk": "aniyomi-zh.xfani-v14.3.apk",
+    "apk": "aniyomi-zh.xfani-v14.4.apk",
     "lang": "zh",
-    "code": 3,
-    "version": "14.3",
+    "code": 4,
+    "version": "14.4",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
