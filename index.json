@@ -2813,10 +2813,10 @@
   {
     "name": "Aniyomi: MonosChinos",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.monoschinos",
-    "apk": "aniyomi-es.monoschinos-v14.29.apk",
+    "apk": "aniyomi-es.monoschinos-v14.30.apk",
     "lang": "es",
-    "code": 29,
-    "version": "14.29",
+    "code": 30,
+    "version": "14.30",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2825,7 +2825,7 @@
         "name": "MonosChinos",
         "lang": "es",
         "id": "6957694006954649296",
-        "baseUrl": "https://monoschinos2.com",
+        "baseUrl": "https://monoschinos2.net",
         "versionId": 1
       }
     ]
@@ -2920,10 +2920,10 @@
   {
     "name": "Aniyomi: Pelisplushd",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
-    "apk": "aniyomi-es.pelisplushd-v14.59.apk",
+    "apk": "aniyomi-es.pelisplushd-v14.60.apk",
     "lang": "es",
-    "code": 59,
-    "version": "14.59",
+    "code": 60,
+    "version": "14.60",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -2946,7 +2946,7 @@
         "name": "PelisPlusPh",
         "lang": "es",
         "id": "4917265654298497443",
-        "baseUrl": "https://www.pelisplushd.ph",
+        "baseUrl": "https://ww5.pelisplushd.pe",
         "versionId": 1
       }
     ]
