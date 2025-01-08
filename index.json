@@ -4041,10 +4041,10 @@
   {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
-    "apk": "aniyomi-pt.anitube-v14.20.apk",
+    "apk": "aniyomi-pt.anitube-v14.21.apk",
     "lang": "pt-BR",
-    "code": 20,
-    "version": "14.20",
+    "code": 21,
+    "version": "14.21",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
