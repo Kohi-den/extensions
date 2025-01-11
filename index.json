@@ -3819,6 +3819,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesBr",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesbr",
+    "apk": "aniyomi-pt.animesbr-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes BR",
+        "lang": "pt-BR",
+        "id": "3000709501394043899",
+        "baseUrl": "https://animesbr.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes CX",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animescx",
     "apk": "aniyomi-pt.animescx-v14.2.apk",
