@@ -2184,26 +2184,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Animefenix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.es.animefenix",
-    "apk": "aniyomi-es.animefenix-v14.43.apk",
-    "lang": "es",
-    "code": 43,
-    "version": "14.43",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimeFenix",
-        "lang": "es",
-        "id": "1901838936011764172",
-        "baseUrl": "https://www.animefenix.tv",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeFLV",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.animeflv",
     "apk": "aniyomi-es.animeflv-v14.58.apk",
@@ -2706,6 +2686,26 @@
         "lang": "es",
         "id": "5893372327521334179",
         "baseUrl": "https://www.jkhentai.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Katanime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.katanime",
+    "apk": "aniyomi-es.katanime-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Katanime",
+        "lang": "es",
+        "id": "2564532783405004779",
+        "baseUrl": "https://katanime.net",
         "versionId": 1
       }
     ]
