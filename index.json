@@ -3859,6 +3859,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimesDrive",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesdrive",
+    "apk": "aniyomi-pt.animesdrive-v14.2.apk",
+    "lang": "pt-BR",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Animes Drive",
+        "lang": "pt-BR",
+        "id": "6170414613821552199",
+        "baseUrl": "https://animesdrive.blog",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Animes Games",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesgames",
     "apk": "aniyomi-pt.animesgames-v14.4.apk",
