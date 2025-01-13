@@ -2511,6 +2511,26 @@
     ]
   },
   {
+    "name": "Aniyomi: EstrenosDoramas",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.estrenosdoramas",
+    "apk": "aniyomi-es.estrenosdoramas-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "EstrenosDoramas",
+        "lang": "es",
+        "id": "9219401167730918156",
+        "baseUrl": "https://estrenosdoramas.es",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: FanPelis",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.fanpelis",
     "apk": "aniyomi-es.fanpelis-v14.12.apk",
@@ -2593,10 +2613,10 @@
   {
     "name": "Aniyomi: HentaiLA",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.hentaila",
-    "apk": "aniyomi-es.hentaila-v14.27.apk",
+    "apk": "aniyomi-es.hentaila-v14.28.apk",
     "lang": "es",
-    "code": 27,
-    "version": "14.27",
+    "code": 28,
+    "version": "14.28",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
