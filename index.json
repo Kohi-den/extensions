@@ -252,10 +252,10 @@
   {
     "name": "Aniyomi: MissAV",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.missav",
-    "apk": "aniyomi-all.missav-v14.11.apk",
+    "apk": "aniyomi-all.missav-v14.12.apk",
     "lang": "all",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -264,7 +264,7 @@
         "name": "MissAV",
         "lang": "all",
         "id": "168969881246615628",
-        "baseUrl": "https://missav.com",
+        "baseUrl": "https://missav.ai",
         "versionId": 1
       }
     ]
