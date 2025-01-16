@@ -4608,10 +4608,10 @@
   {
     "name": "Aniyomi: TR Anime Izle",
     "pkg": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
-    "apk": "aniyomi-tr.tranimeizle-v14.19.apk",
+    "apk": "aniyomi-tr.tranimeizle-v14.20.apk",
     "lang": "tr",
-    "code": 19,
-    "version": "14.19",
+    "code": 20,
+    "version": "14.20",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4620,7 +4620,7 @@
         "name": "TR Anime Izle",
         "lang": "tr",
         "id": "2607995207802293539",
-        "baseUrl": "https://www.tranimeizle.co",
+        "baseUrl": "https://www.tranimeizle.top",
         "versionId": 1
       }
     ]
