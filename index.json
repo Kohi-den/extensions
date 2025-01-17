@@ -116,6 +116,26 @@
     ]
   },
   {
+    "name": "Aniyomi: AniZone",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.anizone",
+    "apk": "aniyomi-all.anizone-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AniZone",
+        "lang": "all",
+        "id": "954848840440936266",
+        "baseUrl": "https://anizone.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: ChineseAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.chineseanime",
     "apk": "aniyomi-all.chineseanime-v14.12.apk",
