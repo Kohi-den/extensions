@@ -1804,6 +1804,26 @@
     ]
   },
   {
+    "name": "Aniyomi: MoviesMod",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.moviesmod",
+    "apk": "aniyomi-en.moviesmod-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Movies Mod",
+        "lang": "en",
+        "id": "2828515480418041073",
+        "baseUrl": "https://moviesmod.red",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Multimovies",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.multimovies",
     "apk": "aniyomi-en.multimovies-v14.20.apk",
