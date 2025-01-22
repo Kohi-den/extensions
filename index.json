@@ -3601,10 +3601,10 @@
   {
     "name": "Aniyomi: ANIMEWORLD.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeworld",
-    "apk": "aniyomi-it.animeworld-v14.41.apk",
+    "apk": "aniyomi-it.animeworld-v14.42.apk",
     "lang": "it",
-    "code": 41,
-    "version": "14.41",
+    "code": 42,
+    "version": "14.42",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
