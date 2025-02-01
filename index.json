@@ -4041,10 +4041,10 @@
   {
     "name": "Aniyomi: AnimesOnlineVip",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonlinevip",
-    "apk": "aniyomi-pt.animesonlinevip-v14.1.apk",
+    "apk": "aniyomi-pt.animesonlinevip-v14.2.apk",
     "lang": "pt-BR",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4053,7 +4053,7 @@
         "name": "Animes Online Vip",
         "lang": "pt-BR",
         "id": "533096643049014020",
-        "baseUrl": "https://animesonlinehd.vip",
+        "baseUrl": "https://animesonline.red",
         "versionId": 1
       }
     ]
@@ -4094,26 +4094,6 @@
         "lang": "pt-BR",
         "id": "1328689310980517070",
         "baseUrl": "https://www.anroll.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimesZone",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeszone",
-    "apk": "aniyomi-pt.animeszone-v14.8.apk",
-    "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimesZone",
-        "lang": "pt-BR",
-        "id": "7465937896816422886",
-        "baseUrl": "https://animeszone.net",
         "versionId": 1
       }
     ]
