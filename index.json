@@ -3561,10 +3561,10 @@
   {
     "name": "Aniyomi: AnimeUnity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animeunity",
-    "apk": "aniyomi-it.animeunity-v14.8.apk",
+    "apk": "aniyomi-it.animeunity-v14.9.apk",
     "lang": "it",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3573,7 +3573,7 @@
         "name": "AnimeUnity",
         "lang": "it",
         "id": "7762808921754601430",
-        "baseUrl": "https://www.animeunity.to",
+        "baseUrl": "https://www.animeunity.so",
         "versionId": 1
       }
     ]
@@ -4708,10 +4708,10 @@
   {
     "name": "Aniyomi: Hanime1",
     "pkg": "eu.kanade.tachiyomi.animeextension.zh.hanime1",
-    "apk": "aniyomi-zh.hanime1-v14.2.apk",
+    "apk": "aniyomi-zh.hanime1-v14.3.apk",
     "lang": "zh",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -4721,6 +4721,46 @@
         "lang": "zh",
         "id": "2853734405579058222",
         "baseUrl": "https://hanime1.me",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: iyf",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.iyf",
+    "apk": "aniyomi-zh.iyf-v14.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "爱壹帆",
+        "lang": "zh",
+        "id": "3164438094592800620",
+        "baseUrl": "https://www.iyf.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Nivod",
+    "pkg": "eu.kanade.tachiyomi.animeextension.zh.nivod",
+    "apk": "aniyomi-zh.nivod-v14.1.apk",
+    "lang": "zh",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "泥视频",
+        "lang": "zh",
+        "id": "1182396933972053592",
+        "baseUrl": "https://www.nivod.cc",
         "versionId": 1
       }
     ]
