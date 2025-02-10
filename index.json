@@ -3659,21 +3659,21 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimeSAGA",
+    "name": "Aniyomi: AniSAGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.hi.animesaga",
-    "apk": "aniyomi-hi.animesaga-v14.16.apk",
+    "apk": "aniyomi-hi.animesaga-v14.17.apk",
     "lang": "hi",
-    "code": 16,
-    "version": "14.16",
+    "code": 17,
+    "version": "14.17",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "AnimeSAGA",
+        "name": "AniSAGA",
         "lang": "hi",
-        "id": "3168615925539503340",
-        "baseUrl": "https://www.animesaga.in",
+        "id": "4596377193820476864",
+        "baseUrl": "https://www.anisaga.org",
         "versionId": 1
       }
     ]
@@ -3761,10 +3761,10 @@
   {
     "name": "Aniyomi: MiniOppai",
     "pkg": "eu.kanade.tachiyomi.animeextension.id.minioppai",
-    "apk": "aniyomi-id.minioppai-v14.9.apk",
+    "apk": "aniyomi-id.minioppai-v14.10.apk",
     "lang": "id",
-    "code": 9,
-    "version": "14.9",
+    "code": 10,
+    "version": "14.10",
     "nsfw": 1,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3773,7 +3773,7 @@
         "name": "MiniOppai",
         "lang": "id",
         "id": "3422641844834047610",
-        "baseUrl": "https://minioppai.biz",
+        "baseUrl": "https://minioppai.org",
         "versionId": 1
       }
     ]
