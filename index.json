@@ -4339,46 +4339,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AnimesTC",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animestc",
-    "apk": "aniyomi-pt.animestc-v14.7.apk",
-    "lang": "pt-BR",
-    "code": 7,
-    "version": "14.7",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimesTC",
-        "lang": "pt-BR",
-        "id": "3010449287201563287",
-        "baseUrl": "https://api2.animestc.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: AnimesZone",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animeszone",
-    "apk": "aniyomi-pt.animeszone-v14.12.apk",
-    "lang": "pt-BR",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AnimesZone",
-        "lang": "pt-BR",
-        "id": "7465937896816422886",
-        "baseUrl": "https://animeszone.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Anitube",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.anitube",
     "apk": "aniyomi-pt.anitube-v14.22.apk",
@@ -4499,26 +4459,6 @@
     ]
   },
   {
-    "name": "Aniyomi: GoAnimes",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.goanimes",
-    "apk": "aniyomi-pt.goanimes-v14.19.apk",
-    "lang": "pt-BR",
-    "code": 19,
-    "version": "14.19",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "GoAnimes",
-        "lang": "pt-BR",
-        "id": "6911038002626470519",
-        "baseUrl": "https://goanimes.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
     "apk": "aniyomi-pt.goyabu-v14.1.apk",
@@ -4554,26 +4494,6 @@
         "lang": "pt-BR",
         "id": "5035104637271805422",
         "baseUrl": "https://www.hentaistube.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Hinata Soul",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.hinatasoul",
-    "apk": "aniyomi-pt.hinatasoul-v14.9.apk",
-    "lang": "pt-BR",
-    "code": 9,
-    "version": "14.9",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Hinata Soul",
-        "lang": "pt-BR",
-        "id": "3650793989950779171",
-        "baseUrl": "https://www.hinatasoul.com",
         "versionId": 1
       }
     ]
