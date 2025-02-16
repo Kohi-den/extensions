@@ -310,6 +310,26 @@
     ]
   },
   {
+    "name": "Aniyomi: ShabakatyCinemana",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.shabakatycinemana",
+    "apk": "aniyomi-all.shabakatycinemana-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Shabakaty Cinemana",
+        "lang": "all",
+        "id": "7409266434239021230",
+        "baseUrl": "https://cinemana.shabakaty.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Subsplease",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.subsplease",
     "apk": "aniyomi-all.subsplease-v14.3.apk",
@@ -406,10 +426,10 @@
   {
     "name": "Aniyomi: Torrentio Anime (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentioanime",
-    "apk": "aniyomi-all.torrentioanime-v14.14.apk",
+    "apk": "aniyomi-all.torrentioanime-v14.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
