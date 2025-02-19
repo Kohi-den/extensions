@@ -1164,26 +1164,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AllMovies",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.allmovies",
-    "apk": "aniyomi-en.allmovies-v14.12.apk",
-    "lang": "en",
-    "code": 12,
-    "version": "14.12",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AllMoviesForYou",
-        "lang": "en",
-        "id": "1135341941497249155",
-        "baseUrl": "https://allmoviesforyou.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeGG",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animegg",
     "apk": "aniyomi-en.animegg-v14.1.apk",
@@ -1244,26 +1224,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Animension",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animension",
-    "apk": "aniyomi-en.animension-v14.21.apk",
-    "lang": "en",
-    "code": 21,
-    "version": "14.21",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Animension",
-        "lang": "en",
-        "id": "2900367084614267279",
-        "baseUrl": "https://animension.to/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: AnimeOwl",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animeowl",
     "apk": "aniyomi-en.animeowl-v14.21.apk",
@@ -1319,26 +1279,6 @@
         "lang": "en",
         "id": "3319373396687010408",
         "baseUrl": "https://www.animeparadise.moe",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Anime Sakura",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.animesakura",
-    "apk": "aniyomi-en.animesakura-v14.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Anime Sakura",
-        "lang": "en",
-        "id": "2978677588900128314",
-        "baseUrl": "https://animesakura.co",
         "versionId": 1
       }
     ]
@@ -1804,26 +1744,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Multimovies",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.multimovies",
-    "apk": "aniyomi-en.multimovies-v14.22.apk",
-    "lang": "en",
-    "code": 22,
-    "version": "14.22",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Multimovies",
-        "lang": "en",
-        "id": "2268620798063111053",
-        "baseUrl": "https://multimovies.art",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Myanime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.myanime",
     "apk": "aniyomi-en.myanime-v14.6.apk",
@@ -1944,26 +1864,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Ripcrabbyanime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.ripcrabbyanime",
-    "apk": "aniyomi-en.ripcrabbyanime-v14.13.apk",
-    "lang": "en",
-    "code": 13,
-    "version": "14.13",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Ripcrabbyanime",
-        "lang": "en",
-        "id": "623659475482363776",
-        "baseUrl": "https://ripcrabbyanime.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Rule34Video",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.rule34video",
     "apk": "aniyomi-en.rule34video-v14.9.apk",
@@ -1984,26 +1884,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Seez",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.seez",
-    "apk": "aniyomi-en.seez-v14.11.apk",
-    "lang": "en",
-    "code": 11,
-    "version": "14.11",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Seez",
-        "lang": "en",
-        "id": "6154521416469165967",
-        "baseUrl": "https://seez.su",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: SFlix",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.sflix",
     "apk": "aniyomi-en.sflix-v14.30.apk",
@@ -2019,26 +1899,6 @@
         "lang": "en",
         "id": "8615824918772726940",
         "baseUrl": "https://sflix.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: SlothAnime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.slothanime",
-    "apk": "aniyomi-en.slothanime-v14.2.apk",
-    "lang": "en",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "SlothAnime",
-        "lang": "en",
-        "id": "5111917255542962744",
-        "baseUrl": "https://slothanime.com",
         "versionId": 1
       }
     ]
