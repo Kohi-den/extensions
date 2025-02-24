@@ -2026,10 +2026,10 @@
   {
     "name": "Aniyomi: HiAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.zoro",
-    "apk": "aniyomi-en.zoro-v14.48.apk",
+    "apk": "aniyomi-en.zoro-v14.49.apk",
     "lang": "en",
-    "code": 48,
-    "version": "14.48",
+    "code": 49,
+    "version": "14.49",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
