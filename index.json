@@ -3159,6 +3159,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Zonaleros",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.zonaleros",
+    "apk": "aniyomi-es.zonaleros-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Zonaleros",
+        "lang": "es",
+        "id": "7487458127391606163",
+        "baseUrl": "https://www.zona-leros.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Anime-Sama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.animesama",
     "apk": "aniyomi-fr.animesama-v14.11.apk",
