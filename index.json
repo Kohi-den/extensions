@@ -22,10 +22,10 @@
   {
     "name": "Aniyomi: AnimeWorld India",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.animeworldindia",
-    "apk": "aniyomi-all.animeworldindia-v14.14.apk",
+    "apk": "aniyomi-all.animeworldindia-v14.15.apk",
     "lang": "all",
-    "code": 14,
-    "version": "14.14",
+    "code": 15,
+    "version": "14.15",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -34,63 +34,63 @@
         "name": "AnimeWorld India",
         "lang": "all",
         "id": "2012957501886720048",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "bn",
         "id": "1553651966725515829",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "en",
         "id": "8052146309028882026",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "hi",
         "id": "7823261278652377392",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "ja",
         "id": "2355355781711866618",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "ml",
         "id": "2763344039098801472",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "mr",
         "id": "7406666490782122257",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "ta",
         "id": "9003594241787941843",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       },
       {
         "name": "AnimeWorld India",
         "lang": "te",
         "id": "8757775099454174589",
-        "baseUrl": "https://anime-world.in",
+        "baseUrl": "https://anime-world.co",
         "versionId": 1
       }
     ]
@@ -3919,26 +3919,6 @@
     ]
   },
   {
-    "name": "Aniyomi: AniDong",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.anidong",
-    "apk": "aniyomi-pt.anidong-v14.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "AniDong",
-        "lang": "pt-BR",
-        "id": "7378153581200508732",
-        "baseUrl": "https://anidong.net",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Anime Fire",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.animefire",
     "apk": "aniyomi-pt.animefire-v14.7.apk",
@@ -4339,26 +4319,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Flixei",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.flixei",
-    "apk": "aniyomi-pt.flixei-v14.8.apk",
-    "lang": "pt-BR",
-    "code": 8,
-    "version": "14.8",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Flixei",
-        "lang": "pt-BR",
-        "id": "1017446964244457164",
-        "baseUrl": "https://flixei.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
     "apk": "aniyomi-pt.goyabu-v14.1.apk",
@@ -4394,46 +4354,6 @@
         "lang": "pt-BR",
         "id": "5035104637271805422",
         "baseUrl": "https://www.hentaistube.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Lista de Animes",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.listadeanimes",
-    "apk": "aniyomi-pt.listadeanimes-v14.2.apk",
-    "lang": "pt-BR",
-    "code": 2,
-    "version": "14.2",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Lista de Animes",
-        "lang": "pt-BR",
-        "id": "4848980350254771341",
-        "baseUrl": "https://www.listadeanimes.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Megaflix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.megaflix",
-    "apk": "aniyomi-pt.megaflix-v14.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "14.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Megaflix",
-        "lang": "pt-BR",
-        "id": "1129545692275462313",
-        "baseUrl": "https://megaflix.ac",
         "versionId": 1
       }
     ]
@@ -4479,26 +4399,6 @@
     ]
   },
   {
-    "name": "Aniyomi: Pobreflix",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.pobreflix",
-    "apk": "aniyomi-pt.pobreflix-v14.20.apk",
-    "lang": "pt-BR",
-    "code": 20,
-    "version": "14.20",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Pobreflix",
-        "lang": "pt-BR",
-        "id": "5761016601933875772",
-        "baseUrl": "https://pobreflix.global",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: Tomato",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.tomato",
     "apk": "aniyomi-pt.tomato-v14.1.apk",
@@ -4514,26 +4414,6 @@
         "lang": "pt-BR",
         "id": "3298973071492789784",
         "baseUrl": "https://beta-api.tomatoanimes.com",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Vizer.tv",
-    "pkg": "eu.kanade.tachiyomi.animeextension.pt.vizer",
-    "apk": "aniyomi-pt.vizer-v14.24.apk",
-    "lang": "pt-BR",
-    "code": 24,
-    "version": "14.24",
-    "nsfw": 1,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Vizer.tv",
-        "lang": "pt-BR",
-        "id": "6953989216416223241",
-        "baseUrl": "https://novizer.com",
         "versionId": 1
       }
     ]
