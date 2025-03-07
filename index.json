@@ -2891,6 +2891,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Otakuverso",
+    "pkg": "eu.kanade.tachiyomi.animeextension.es.otakuverso",
+    "apk": "aniyomi-es.otakuverso-v14.1.apk",
+    "lang": "es",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Otakuverso",
+        "lang": "es",
+        "id": "3028407037647098593",
+        "baseUrl": "https://otakuverso.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Pandrama",
     "pkg": "eu.kanade.tachiyomi.animeextension.es.pandrama",
     "apk": "aniyomi-es.pandrama-v14.2.apk",
