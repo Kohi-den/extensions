@@ -310,6 +310,26 @@
     ]
   },
   {
+    "name": "Aniyomi: Newgrounds",
+    "pkg": "eu.kanade.tachiyomi.animeextension.all.newgrounds",
+    "apk": "aniyomi-all.newgrounds-v14.1.apk",
+    "lang": "all",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "Newgrounds",
+        "lang": "all",
+        "id": "1105406593306973475",
+        "baseUrl": "https://www.newgrounds.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: ShabakatyCinemana",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.shabakatycinemana",
     "apk": "aniyomi-all.shabakatycinemana-v14.3.apk",
