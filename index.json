@@ -1284,26 +1284,6 @@
     ]
   },
   {
-    "name": "Aniyomi: DramaCool",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.dramacool",
-    "apk": "aniyomi-en.dramacool-v14.54.apk",
-    "lang": "en",
-    "code": 54,
-    "version": "14.54",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "DramaCool",
-        "lang": "en",
-        "id": "76017545488916387",
-        "baseUrl": "https://asianc.co/",
-        "versionId": 1
-      }
-    ]
-  },
-  {
     "name": "Aniyomi: edytjedhgmdhm",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.edytjedhgmdhm",
     "apk": "aniyomi-en.edytjedhgmdhm-v14.5.apk",
@@ -1319,46 +1299,6 @@
         "lang": "en",
         "id": "5011565488977897786",
         "baseUrl": "https://edytjedhgmdhm.abfhaqrhbnf.workers.dev",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: FMovies",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.fmovies",
-    "apk": "aniyomi-en.fmovies-v14.26.apk",
-    "lang": "en",
-    "code": 26,
-    "version": "14.26",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "FMovies",
-        "lang": "en",
-        "id": "539447480475024818",
-        "baseUrl": "https://fmovies24.to",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Gogoanime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.gogoanime",
-    "apk": "aniyomi-en.gogoanime-v14.87.apk",
-    "lang": "en",
-    "code": 87,
-    "version": "14.87",
-    "nsfw": 0,
-    "hasReadme": 0,
-    "hasChangelog": 0,
-    "sources": [
-      {
-        "name": "Gogoanime",
-        "lang": "en",
-        "id": "7055547649318749672",
-        "baseUrl": "https://anitaku.to",
         "versionId": 1
       }
     ]
