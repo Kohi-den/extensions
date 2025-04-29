@@ -1446,10 +1446,10 @@
   {
     "name": "Aniyomi: KickAssAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kickassanime",
-    "apk": "aniyomi-en.kickassanime-v14.46.apk",
+    "apk": "aniyomi-en.kickassanime-v14.47.apk",
     "lang": "en",
-    "code": 46,
-    "version": "14.46",
+    "code": 47,
+    "version": "14.47",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1458,7 +1458,7 @@
         "name": "KickAssAnime",
         "lang": "en",
         "id": "2081771513481539599",
-        "baseUrl": "https://kaas.to",
+        "baseUrl": "https://kaa.mx",
         "versionId": 1
       }
     ]
@@ -3254,10 +3254,10 @@
   {
     "name": "Aniyomi: AniSAGA",
     "pkg": "eu.kanade.tachiyomi.animeextension.hi.animesaga",
-    "apk": "aniyomi-hi.animesaga-v14.18.apk",
+    "apk": "aniyomi-hi.animesaga-v14.19.apk",
     "lang": "hi",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
