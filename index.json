@@ -1126,10 +1126,10 @@
   {
     "name": "Aniyomi: AnimePahe",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.animepahe",
-    "apk": "aniyomi-en.animepahe-v14.30.apk",
+    "apk": "aniyomi-en.animepahe-v14.31.apk",
     "lang": "en",
-    "code": 30,
-    "version": "14.30",
+    "code": 31,
+    "version": "14.31",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
