@@ -178,10 +178,10 @@
   {
     "name": "Aniyomi: Hikari",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.hikari",
-    "apk": "aniyomi-all.hikari-v14.18.apk",
+    "apk": "aniyomi-all.hikari-v14.19.apk",
     "lang": "all",
-    "code": 18,
-    "version": "14.18",
+    "code": 19,
+    "version": "14.19",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
