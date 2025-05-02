@@ -1826,10 +1826,10 @@
   {
     "name": "Aniyomi: WCOStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.wcostream",
-    "apk": "aniyomi-en.wcostream-v14.5.apk",
+    "apk": "aniyomi-en.wcostream-v14.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -1838,7 +1838,7 @@
         "name": "WCOStream",
         "lang": "en",
         "id": "4144024127778211557",
-        "baseUrl": "https://www.wcostream.org",
+        "baseUrl": "https://www.wcostream.tv",
         "versionId": 1
       }
     ]
