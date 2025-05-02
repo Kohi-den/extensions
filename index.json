@@ -3574,10 +3574,10 @@
   {
     "name": "Aniyomi: StreamingCommunity",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.streamingcommunity",
-    "apk": "aniyomi-it.streamingcommunity-v14.5.apk",
+    "apk": "aniyomi-it.streamingcommunity-v14.6.apk",
     "lang": "it",
-    "code": 5,
-    "version": "14.5",
+    "code": 6,
+    "version": "14.6",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -3586,7 +3586,7 @@
         "name": "StreamingCommunity",
         "lang": "it",
         "id": "8092251957420885335",
-        "baseUrl": "https://streamingcommunity.photos",
+        "baseUrl": "https://streamingcommunity.spa",
         "versionId": 1
       }
     ]
