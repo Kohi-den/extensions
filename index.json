@@ -726,10 +726,10 @@
   {
     "name": "Aniyomi: WIT ANIME",
     "pkg": "eu.kanade.tachiyomi.animeextension.ar.witanime",
-    "apk": "aniyomi-ar.witanime-v14.52.apk",
+    "apk": "aniyomi-ar.witanime-v14.53.apk",
     "lang": "ar",
-    "code": 52,
-    "version": "14.52",
+    "code": 53,
+    "version": "14.53",
     "nsfw": 0,
     "hasReadme": 0,
     "hasChangelog": 0,
@@ -738,7 +738,7 @@
         "name": "WIT ANIME",
         "lang": "ar",
         "id": "8940958730943730988",
-        "baseUrl": "https://witanime.pics",
+        "baseUrl": "https://witanime.cyou",
         "versionId": 1
       }
     ]
