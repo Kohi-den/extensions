@@ -1384,6 +1384,26 @@
     ]
   },
   {
+    "name": "Aniyomi: JPFilms",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.jpfilms",
+    "apk": "aniyomi-en.jpfilms-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "JPFilms",
+        "lang": "en",
+        "id": "865558085806297637",
+        "baseUrl": "https://jp-films.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: Kaido",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.kaido",
     "apk": "aniyomi-en.kaido-v14.15.apk",
